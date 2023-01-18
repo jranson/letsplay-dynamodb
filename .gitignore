@@ -1,0 +1,6 @@
+topics.txt
+.DS_Store
+vendor
+terraform.tfvars
+.terraform*
+backend.tf
